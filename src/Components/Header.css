@@ -1,0 +1,33 @@
+.icons{
+    color: #3d3d3d !important;
+    background-color: white;
+    margin-left: 25px;
+    border-radius: 111px;
+    padding: 11px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: rgba(72, 72, 72, 0.1) 0px 0px 5px 0px, rgba(72, 72, 72, 0.1) 0px 0px 1px 0px;
+}
+.bg-light{
+    background-color: white !important;
+}
+.navbar{
+    padding: 10px;
+}
+.navbar-cus-head{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px;
+}
+.Active-a:focus{
+    text-decoration: underline;
+    text-underline-offset: 25px;
+    font-weight: 500;
+    text-decoration-color: #FF6347;
+    text-decoration-thickness: 3px;
+}
+.Completed-a:focus{
+    text-decoration: underline;
+    text-underline-offset: 25px;
+    font-weight: 500;
+    text-decoration-color: #FF6347;
+    text-decoration-thickness: 3px;
+}
